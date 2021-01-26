@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.heading{
+    color: aqua;
+    text-align: center;
+    text-decoration:underline;
+    padding: 20px;
+    text-shadow: 2px 2px 3px #dfaee6;
+}
+.images{
+    display: flex;
+    justify-content: center;
+}
+
+.images img{
+    height: 200px;
+    width: 150px;
+
+}

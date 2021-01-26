@@ -1,0 +1,5 @@
+{
+    "git.useCommitInputAsStashMessage": true,
+    "git.allowForcePush": true,
+    "git.alwaysSignOff": true
+}
