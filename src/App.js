@@ -1,12 +1,14 @@
 import React from 'react'
+import WelcomeDilog from './myPro/Composition'
 
-import Calculater from './myPro/LiftingState'
+// import Calculater from './myPro/LiftingState'
 
 
 const App = () => {
     return (
         <>
-            <Calculater />
+            {/* <Calculater /> */}
+            <WelcomeDilog />
         </>
     )
 }
